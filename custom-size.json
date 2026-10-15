@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "app_id": "idaya-crop-tool",
+  "channel": "custom-size",
+  "version": "1.0.8",
+  "min_version": "1.0.5",
+  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.8/idaya-update-custom-size-1.0.8.zip",
+  "sha256": "ba8f728e974602773aa30cb7dbb2d8805568f87f49b94230273caf2679aa2a93",
+  "size_bytes": 320204,
+  "published_utc": "2026-10-15T03:57:27.933416+00:00",
+  "notes": "增加联网检查更新，可关闭启动检查；确认后下载小更新包，保留模型和设置，启动检查失败自动回滚。"
+}
