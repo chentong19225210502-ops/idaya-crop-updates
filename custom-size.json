@@ -2,11 +2,12 @@
   "schema": 1,
   "app_id": "idaya-crop-tool",
   "channel": "custom-size",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "min_version": "1.0.5",
-  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.9/idaya-update-custom-size-1.0.9.zip",
-  "sha256": "a93c06fae5ef10fdc91584416e5aecb87977088e695a4c2dac5c08305e68c3ba",
-  "size_bytes": 320293,
-  "published_utc": "2026-10-15T04:24:05.723220+00:00",
-  "notes": "将检查更新移至下方操作区左侧，恢复顶部Logo显示空间，保留原有设置。"
+  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.11/idaya-update-custom-size-1.0.11.zip",
+  "sha256": "4552c883903faf55925dbbe2bb4e29b2b01220a4aa327f530d8c6a47e1d09135",
+  "size_bytes": 321656,
+  "published_utc": "2026-10-17T06:15:46.139920+00:00",
+  "notes": "详情固定居中保留白边；1200滑块并排，修复前缀遮挡，统一输入框，预览显示最终文件名和尺寸。"
 }
+
