@@ -2,11 +2,11 @@
   "schema": 1,
   "app_id": "idaya-crop-tool",
   "channel": "custom-size",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "min_version": "1.0.5",
-  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.12/idaya-update-custom-size-1.0.12.zip",
-  "sha256": "e7cc58a8011d6243b00886f7eb6657278a0b3c37e8c1588f8bbf42fa4efa5212",
-  "size_bytes": 323532,
-  "published_utc": "2026-10-17T07:43:32.746289+00:00",
-  "notes": "修正详情对应：750 (1) 生成详情 (1) 与详情 (8)，750 (3)、(4)、(5) 分别生成详情 (6)、(7)、(9)；抠图减少重复识别和大图处理耗时，普通成品先输出并显示抠图阶段。"
+  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.13/idaya-update-custom-size-1.0.13.zip",
+  "sha256": "b0c235cd779d186bca434c3aae7a9bcc952bc55a0bb98c405dc27d555b6ad5ec",
+  "size_bytes": 323606,
+  "published_utc": "2026-10-17T08:15:14+00:00",
+  "notes": "更正详情图来源：750 (1) 对应详情 (1) 与详情 (8)，750 (3) 对应详情 (6)，750 (4) 对应详情 (9)，750 (5) 对应详情 (7)；未指定的详情编号不生成。"
 }
