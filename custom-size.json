@@ -2,11 +2,11 @@
   "schema": 1,
   "app_id": "idaya-crop-tool",
   "channel": "custom-size",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "min_version": "1.0.5",
-  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.13/idaya-update-custom-size-1.0.13.zip",
-  "sha256": "b0c235cd779d186bca434c3aae7a9bcc952bc55a0bb98c405dc27d555b6ad5ec",
-  "size_bytes": 323606,
-  "published_utc": "2026-10-17T08:15:14+00:00",
-  "notes": "更正详情图来源：750 (1) 对应详情 (1) 与详情 (8)，750 (3) 对应详情 (6)，750 (4) 对应详情 (9)，750 (5) 对应详情 (7)；未指定的详情编号不生成。"
+  "package_url": "https://github.com/chentong19225210502-ops/idaya-crop-updates/releases/download/custom-size-v1.0.15/idaya-update-custom-size-1.0.15.zip",
+  "sha256": "ffa17e8de63170b66285e9b7d7146e549e771f7b9f6f8c659bd712c7bbee36db",
+  "size_bytes": 330342,
+  "published_utc": "2026-10-17T09:32:22Z",
+  "notes": "新增自定义图片序号识别，兼容1、2、3和1-1、1-2等命名；新增透明图开关和多文件夹批量处理；所有输出及附加图片限制3 MB，保持像素尺寸压缩。"
 }
